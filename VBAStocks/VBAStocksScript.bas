@@ -22,7 +22,7 @@ Sub MultipleYearStockData():
         'Variable for greatest total volume
         Dim GreatVol As Double
         
-        'Get the WorksheetName
+        'Get the WorksheetName 
         WorksheetName = ws.Name
         
         'Create column headers
